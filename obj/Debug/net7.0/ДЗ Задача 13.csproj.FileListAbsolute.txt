@@ -1,0 +1,15 @@
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 13\obj\Debug\net7.0\ДЗ Задача 13.csproj.AssemblyReference.cache
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 13\obj\Debug\net7.0\ДЗ Задача 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 13\obj\Debug\net7.0\ДЗ Задача 13.AssemblyInfoInputs.cache
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 13\obj\Debug\net7.0\ДЗ Задача 13.AssemblyInfo.cs
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 13\obj\Debug\net7.0\ДЗ Задача 13.csproj.CoreCompileInputs.cache
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 13\bin\Debug\net7.0\ДЗ Задача 13.exe
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 13\bin\Debug\net7.0\ДЗ Задача 13.deps.json
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 13\bin\Debug\net7.0\ДЗ Задача 13.runtimeconfig.json
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 13\bin\Debug\net7.0\ДЗ Задача 13.dll
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 13\bin\Debug\net7.0\ДЗ Задача 13.pdb
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 13\obj\Debug\net7.0\ДЗ Задача 13.dll
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 13\obj\Debug\net7.0\refint\ДЗ Задача 13.dll
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 13\obj\Debug\net7.0\ДЗ Задача 13.pdb
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 13\obj\Debug\net7.0\ДЗ Задача 13.genruntimeconfig.cache
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 13\obj\Debug\net7.0\ref\ДЗ Задача 13.dll
